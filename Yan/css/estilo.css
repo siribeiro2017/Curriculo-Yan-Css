@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.cor_texto {
+    color: darkviolet;
+}
+.borda {
+    border: solid 3px darkgray;
+    background-color: darkgray;
+}
+body {
+    background-color: lightgrey;
+    margin: 25px 50px 25px 50px;
+}
+.margem_esq {
+    margin-left: 10px;
+
+}
+.centraliza_info {
+    text-align: center;
+    list-style-type: none;
+}
+.centraliza {
+    text-align: center;
+}
